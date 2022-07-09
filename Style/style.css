@@ -60,7 +60,7 @@ nav{
 }
 nav > a {
     color: white;
-    padding: 10px;
+    padding: 9px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 3px;
@@ -147,9 +147,10 @@ aside{
 aside h3{
     color: white;
     padding: 5px;
+    padding-left: 7px;
     background-color: var(--cor4);
     margin: -10px -10px 0px -10px ;
-    border-radius: 10px 0px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
 }
 aside > ul{
     list-style-type:'\2714\00A0\00A0' ;
